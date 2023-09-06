@@ -1,0 +1,25 @@
+.container{
+    padding: 40px 120px;
+    /* O nome tem que condizer com o nome colocado no Div Class */
+}
+
+p{
+    font-size: 30;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: darkblue;
+    text-align: center;
+}
+h1{
+    color: brown;
+    align-items: center;
+    text-align: center;
+}
+
+img{
+    padding: 0px 30px 30px 30px;
+    text-align: center;
+    width: 400px;
+    height: 350px;
+}
+
+/* Se você analisar direito, é como fazer manualmente uma edição no word de texto */
